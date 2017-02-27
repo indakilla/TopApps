@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Top Apps</string>
+    <string name="button1">VODKA</string>
+    <string name="button2">RUM</string>
+    <string name="button3">TEQUILA</string>
+    <string name="button4">BEER</string>
+    <string name="button5">WHISKY</string>
+    <string name="button6">LIQUEUR</string>
+    <string name="button7">VERMOUTH</string>
+
+</resources>
